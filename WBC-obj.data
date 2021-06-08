@@ -1,0 +1,5 @@
+classes = 4
+train = /content/drive/My\ Drive/Projects/BCCD4/train_annotations_yolo/train.txt
+valid = /content/drive/My\ Drive/Projects/BCCD4/test_annotations_yolo/test.txt
+names = /content/drive/My\ Drive/Projects/BCCD4/WBC.names
+backup = /content/drive/My\ Drive/Projects/darknet_bloodcells/backup4/

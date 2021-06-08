@@ -1,0 +1,1429 @@
+ 601: 0.774160, 0.774160 avg loss, 0.000130 rate, 17.804643 seconds, 38464 images
+Loaded: 0.000036 seconds
+
+ 602: 0.771779, 0.773922 avg loss, 0.000131 rate, 18.140537 seconds, 38528 images
+Loaded: 0.000054 seconds
+ Very small path to the image:  
+
+ 603: 0.728630, 0.769393 avg loss, 0.000132 rate, 18.591850 seconds, 38592 images
+Loaded: 0.000041 seconds
+
+ 604: 0.701885, 0.762642 avg loss, 0.000133 rate, 18.870874 seconds, 38656 images
+Loaded: 0.000048 seconds
+
+ 605: 0.660288, 0.752407 avg loss, 0.000134 rate, 19.262944 seconds, 38720 images
+Loaded: 0.000035 seconds
+ Very small path to the image:  
+
+ 606: 0.641452, 0.741311 avg loss, 0.000135 rate, 19.741733 seconds, 38784 images
+Loaded: 0.000065 seconds
+
+ 607: 0.621940, 0.729374 avg loss, 0.000136 rate, 19.907299 seconds, 38848 images
+Loaded: 0.000048 seconds
+
+ 608: 0.717796, 0.728216 avg loss, 0.000137 rate, 20.425189 seconds, 38912 images
+Loaded: 0.000054 seconds
+
+ 609: 0.739570, 0.729352 avg loss, 0.000138 rate, 20.686747 seconds, 38976 images
+Loaded: 0.000057 seconds
+ Very small path to the image:  
+
+ 610: 0.672199, 0.723636 avg loss, 0.000138 rate, 20.334990 seconds, 39040 images
+Resizing
+832 x 832 
+ try to allocate additional workspace_size = 203.52 MB 
+ CUDA allocate done! 
+Loaded: 7.387487 seconds
+
+ 611: 0.603924, 0.711665 avg loss, 0.000139 rate, 17.763844 seconds, 39104 images
+Loaded: 0.000038 seconds
+
+ 612: 0.650144, 0.705513 avg loss, 0.000140 rate, 18.667811 seconds, 39168 images
+Loaded: 0.000041 seconds
+ Very small path to the image:  
+
+ 613: 0.662935, 0.701255 avg loss, 0.000141 rate, 18.223581 seconds, 39232 images
+Loaded: 0.000046 seconds
+ Very small path to the image:  
+
+ 614: 0.649205, 0.696050 avg loss, 0.000142 rate, 18.010420 seconds, 39296 images
+Loaded: 0.000045 seconds
+ Very small path to the image:  
+
+ 615: 0.639159, 0.690361 avg loss, 0.000143 rate, 18.106226 seconds, 39360 images
+Loaded: 0.000098 seconds
+
+ 616: 0.663623, 0.687687 avg loss, 0.000144 rate, 18.230371 seconds, 39424 images
+Loaded: 0.000062 seconds
+
+ 617: 0.714617, 0.690380 avg loss, 0.000145 rate, 18.232463 seconds, 39488 images
+Loaded: 0.000059 seconds
+
+ 618: 0.638545, 0.685197 avg loss, 0.000146 rate, 18.150750 seconds, 39552 images
+Loaded: 0.000036 seconds
+ Very small path to the image:  
+
+ 619: 0.587822, 0.675459 avg loss, 0.000147 rate, 18.127988 seconds, 39616 images
+Loaded: 0.000034 seconds
+
+ 620: 0.638089, 0.671722 avg loss, 0.000148 rate, 18.153378 seconds, 39680 images
+Resizing
+480 x 480 
+ Very small path to the image:  
+ try to allocate additional workspace_size = 67.74 MB 
+ CUDA allocate done! 
+Loaded: 1.815344 seconds
+
+ 621: 0.878663, 0.692416 avg loss, 0.000149 rate, 6.123030 seconds, 39744 images
+Loaded: 0.000042 seconds
+
+ 622: 0.732028, 0.696378 avg loss, 0.000150 rate, 6.207316 seconds, 39808 images
+Loaded: 0.000043 seconds
+
+ 623: 0.795920, 0.706332 avg loss, 0.000151 rate, 6.237167 seconds, 39872 images
+Loaded: 0.000067 seconds
+
+ 624: 0.757306, 0.711429 avg loss, 0.000152 rate, 6.255446 seconds, 39936 images
+Loaded: 0.000040 seconds
+
+ 625: 0.744559, 0.714742 avg loss, 0.000153 rate, 6.238662 seconds, 40000 images
+Loaded: 0.000041 seconds
+
+ 626: 0.577209, 0.700989 avg loss, 0.000154 rate, 6.239905 seconds, 40064 images
+Loaded: 0.000068 seconds
+
+ 627: 0.576451, 0.688535 avg loss, 0.000155 rate, 6.226779 seconds, 40128 images
+Loaded: 0.000061 seconds
+ Very small path to the image:  
+
+ 628: 0.739165, 0.693598 avg loss, 0.000156 rate, 6.234150 seconds, 40192 images
+Loaded: 0.000042 seconds
+
+ 629: 0.749019, 0.699140 avg loss, 0.000157 rate, 6.199930 seconds, 40256 images
+Loaded: 0.000069 seconds
+ Very small path to the image:  
+
+ 630: 0.794145, 0.708641 avg loss, 0.000158 rate, 6.212393 seconds, 40320 images
+Resizing
+832 x 832 
+ try to allocate additional workspace_size = 203.52 MB 
+ CUDA allocate done! 
+Loaded: 0.000040 seconds
+
+ 631: 1.061192, 0.743896 avg loss, 0.000159 rate, 17.783049 seconds, 40384 images
+Loaded: 0.000043 seconds
+ Very small path to the image:  
+
+ 632: 0.699426, 0.739449 avg loss, 0.000160 rate, 18.387602 seconds, 40448 images
+Loaded: 0.000045 seconds
+ Very small path to the image:  
+
+ 633: 0.796708, 0.745175 avg loss, 0.000161 rate, 18.176366 seconds, 40512 images
+Loaded: 0.000044 seconds
+
+ 634: 0.880672, 0.758724 avg loss, 0.000162 rate, 18.146290 seconds, 40576 images
+Loaded: 0.000042 seconds
+
+ 635: 0.937640, 0.776616 avg loss, 0.000163 rate, 18.132461 seconds, 40640 images
+Loaded: 0.000069 seconds
+
+ 636: 0.794422, 0.778397 avg loss, 0.000164 rate, 18.194185 seconds, 40704 images
+Loaded: 0.000042 seconds
+ Very small path to the image:  
+
+ 637: 0.734934, 0.774050 avg loss, 0.000165 rate, 18.169496 seconds, 40768 images
+Loaded: 0.000070 seconds
+
+ 638: 0.936042, 0.790249 avg loss, 0.000166 rate, 18.185120 seconds, 40832 images
+Loaded: 0.000082 seconds
+
+ 639: 0.933971, 0.804622 avg loss, 0.000167 rate, 18.166596 seconds, 40896 images
+Loaded: 0.000054 seconds
+
+ 640: 0.623252, 0.786485 avg loss, 0.000168 rate, 18.159469 seconds, 40960 images
+Resizing
+864 x 864 
+ try to allocate additional workspace_size = 219.47 MB 
+ CUDA allocate done! 
+Loaded: 0.000066 seconds
+
+ 641: 0.764863, 0.784322 avg loss, 0.000169 rate, 19.246771 seconds, 41024 images
+Loaded: 0.000041 seconds
+
+ 642: 0.711999, 0.777090 avg loss, 0.000170 rate, 19.859686 seconds, 41088 images
+Loaded: 0.000041 seconds
+
+ 643: 0.838957, 0.783277 avg loss, 0.000171 rate, 19.438837 seconds, 41152 images
+Loaded: 0.000034 seconds
+
+ 644: 0.683348, 0.773284 avg loss, 0.000172 rate, 19.421521 seconds, 41216 images
+Loaded: 0.000040 seconds
+
+ 645: 0.589159, 0.754871 avg loss, 0.000173 rate, 19.463791 seconds, 41280 images
+Loaded: 0.000101 seconds
+
+ 646: 0.638677, 0.743252 avg loss, 0.000174 rate, 19.570803 seconds, 41344 images
+Loaded: 0.000064 seconds
+
+ 647: 0.687312, 0.737658 avg loss, 0.000175 rate, 19.511916 seconds, 41408 images
+Loaded: 0.000037 seconds
+
+ 648: 0.722964, 0.736188 avg loss, 0.000176 rate, 19.489208 seconds, 41472 images
+Loaded: 0.000071 seconds
+ Very small path to the image:  
+
+ 649: 0.678710, 0.730441 avg loss, 0.000177 rate, 19.451817 seconds, 41536 images
+Loaded: 0.000046 seconds
+
+ 650: 0.666580, 0.724055 avg loss, 0.000179 rate, 19.463552 seconds, 41600 images
+Resizing
+768 x 768 
+ try to allocate additional workspace_size = 173.41 MB 
+ CUDA allocate done! 
+Loaded: 0.084969 seconds
+ Very small path to the image:  
+
+ 651: 0.575648, 0.709214 avg loss, 0.000180 rate, 14.573105 seconds, 41664 images
+Loaded: 0.000044 seconds
+
+ 652: 0.646968, 0.702989 avg loss, 0.000181 rate, 14.869009 seconds, 41728 images
+Loaded: 0.000040 seconds
+
+ 653: 0.598466, 0.692537 avg loss, 0.000182 rate, 14.858380 seconds, 41792 images
+Loaded: 0.000052 seconds
+
+ 654: 0.564544, 0.679738 avg loss, 0.000183 rate, 14.874853 seconds, 41856 images
+Loaded: 0.000049 seconds
+ Very small path to the image:  
+
+ 655: 0.631294, 0.674893 avg loss, 0.000184 rate, 14.871009 seconds, 41920 images
+Loaded: 0.000062 seconds
+
+ 656: 0.574989, 0.664903 avg loss, 0.000185 rate, 14.900980 seconds, 41984 images
+Loaded: 0.000044 seconds
+
+ 657: 0.480914, 0.646504 avg loss, 0.000186 rate, 14.916419 seconds, 42048 images
+Loaded: 0.000047 seconds
+ Very small path to the image:  
+
+ 658: 0.604930, 0.642347 avg loss, 0.000187 rate, 14.912140 seconds, 42112 images
+Loaded: 0.000091 seconds
+
+ 659: 0.547757, 0.632888 avg loss, 0.000189 rate, 14.912078 seconds, 42176 images
+Loaded: 0.000040 seconds
+
+ 660: 0.548901, 0.624489 avg loss, 0.000190 rate, 14.931592 seconds, 42240 images
+Resizing
+576 x 576 
+ try to allocate additional workspace_size = 97.55 MB 
+ CUDA allocate done! 
+Loaded: 0.000066 seconds
+
+ 661: 0.622149, 0.624255 avg loss, 0.000191 rate, 9.183791 seconds, 42304 images
+Loaded: 0.000069 seconds
+
+ 662: 0.572564, 0.619086 avg loss, 0.000192 rate, 9.268710 seconds, 42368 images
+Loaded: 0.000074 seconds
+
+ 663: 0.557640, 0.612941 avg loss, 0.000193 rate, 9.290018 seconds, 42432 images
+Loaded: 0.000066 seconds
+
+ 664: 0.523392, 0.603986 avg loss, 0.000194 rate, 9.297792 seconds, 42496 images
+Loaded: 0.000073 seconds
+
+ 665: 0.668343, 0.610422 avg loss, 0.000196 rate, 9.275121 seconds, 42560 images
+Loaded: 0.000040 seconds
+
+ 666: 0.630171, 0.612397 avg loss, 0.000197 rate, 9.250480 seconds, 42624 images
+Loaded: 0.000058 seconds
+
+ 667: 0.553115, 0.606469 avg loss, 0.000198 rate, 9.233657 seconds, 42688 images
+Loaded: 0.000037 seconds
+
+ 668: 0.603901, 0.606212 avg loss, 0.000199 rate, 9.225504 seconds, 42752 images
+Loaded: 0.000041 seconds
+
+ 669: 0.592325, 0.604823 avg loss, 0.000200 rate, 9.225684 seconds, 42816 images
+Loaded: 0.000039 seconds
+
+ 670: 0.605238, 0.604865 avg loss, 0.000202 rate, 9.246262 seconds, 42880 images
+Resizing
+768 x 768 
+ try to allocate additional workspace_size = 173.41 MB 
+ CUDA allocate done! 
+Loaded: 0.000047 seconds
+ Very small path to the image:  
+
+ 671: 0.570747, 0.601453 avg loss, 0.000203 rate, 14.591276 seconds, 42944 images
+Loaded: 0.000102 seconds
+
+ 672: 0.500878, 0.591395 avg loss, 0.000204 rate, 14.937388 seconds, 43008 images
+Loaded: 0.000041 seconds
+
+ 673: 0.558760, 0.588132 avg loss, 0.000205 rate, 14.909083 seconds, 43072 images
+Loaded: 0.000057 seconds
+
+ 674: 0.647289, 0.594048 avg loss, 0.000206 rate, 14.831158 seconds, 43136 images
+Loaded: 0.000073 seconds
+
+ 675: 0.537638, 0.588407 avg loss, 0.000208 rate, 14.838142 seconds, 43200 images
+Loaded: 0.000052 seconds
+
+ 676: 0.612051, 0.590771 avg loss, 0.000209 rate, 14.908765 seconds, 43264 images
+Loaded: 0.000040 seconds
+
+ 677: 0.721876, 0.603882 avg loss, 0.000210 rate, 14.948677 seconds, 43328 images
+Loaded: 0.000067 seconds
+
+ 678: 0.496830, 0.593177 avg loss, 0.000211 rate, 14.898258 seconds, 43392 images
+Loaded: 0.000051 seconds
+
+ 679: 0.566283, 0.590487 avg loss, 0.000213 rate, 14.842681 seconds, 43456 images
+Loaded: 0.000045 seconds
+
+ 680: 0.527136, 0.584152 avg loss, 0.000214 rate, 14.845391 seconds, 43520 images
+Resizing
+736 x 736 
+ try to allocate additional workspace_size = 159.26 MB 
+ CUDA allocate done! 
+Loaded: 0.094807 seconds
+
+ 681: 0.509409, 0.576678 avg loss, 0.000215 rate, 13.822639 seconds, 43584 images
+Loaded: 0.000054 seconds
+
+ 682: 0.657698, 0.584780 avg loss, 0.000216 rate, 14.117724 seconds, 43648 images
+Loaded: 0.000067 seconds
+
+ 683: 0.572319, 0.583534 avg loss, 0.000218 rate, 14.139123 seconds, 43712 images
+Loaded: 0.000074 seconds
+ Very small path to the image:  
+ Very small path to the image:  
+
+ 684: 0.550789, 0.580259 avg loss, 0.000219 rate, 14.114676 seconds, 43776 images
+Loaded: 0.000067 seconds
+
+ 685: 0.537602, 0.575994 avg loss, 0.000220 rate, 14.113232 seconds, 43840 images
+Loaded: 0.000042 seconds
+ Very small path to the image:  
+
+ 686: 0.504102, 0.568804 avg loss, 0.000221 rate, 14.106280 seconds, 43904 images
+Loaded: 0.000048 seconds
+
+ 687: 0.494428, 0.561367 avg loss, 0.000223 rate, 14.091884 seconds, 43968 images
+Loaded: 0.000087 seconds
+
+ 688: 0.532689, 0.558499 avg loss, 0.000224 rate, 14.101959 seconds, 44032 images
+Loaded: 0.000050 seconds
+
+ 689: 0.495004, 0.552149 avg loss, 0.000225 rate, 14.078265 seconds, 44096 images
+Loaded: 0.000042 seconds
+
+ 690: 0.507663, 0.547701 avg loss, 0.000227 rate, 14.102425 seconds, 44160 images
+Resizing
+480 x 480 
+ Very small path to the image:  
+ try to allocate additional workspace_size = 67.74 MB 
+ CUDA allocate done! 
+Loaded: 0.000050 seconds
+
+ 691: 0.739155, 0.566846 avg loss, 0.000228 rate, 6.110387 seconds, 44224 images
+Loaded: 0.000040 seconds
+ Very small path to the image:  
+
+ 692: 0.783139, 0.588476 avg loss, 0.000229 rate, 6.217094 seconds, 44288 images
+Loaded: 0.000101 seconds
+
+ 693: 0.695327, 0.599161 avg loss, 0.000231 rate, 6.222303 seconds, 44352 images
+Loaded: 0.000048 seconds
+
+ 694: 0.582219, 0.597466 avg loss, 0.000232 rate, 6.246282 seconds, 44416 images
+Loaded: 0.000058 seconds
+
+ 695: 0.788114, 0.616531 avg loss, 0.000233 rate, 6.248623 seconds, 44480 images
+Loaded: 0.000061 seconds
+
+ 696: 0.769859, 0.631864 avg loss, 0.000235 rate, 6.234588 seconds, 44544 images
+Loaded: 0.000080 seconds
+ Very small path to the image:  
+ Very small path to the image:  
+
+ 697: 0.594492, 0.628127 avg loss, 0.000236 rate, 6.238153 seconds, 44608 images
+Loaded: 0.000039 seconds
+
+ 698: 0.594619, 0.624776 avg loss, 0.000237 rate, 6.254729 seconds, 44672 images
+Loaded: 0.000041 seconds
+
+ 699: 0.595840, 0.621882 avg loss, 0.000239 rate, 6.235989 seconds, 44736 images
+Loaded: 0.000048 seconds
+
+ 700: 0.568812, 0.616575 avg loss, 0.000240 rate, 6.224224 seconds, 44800 images
+Saving weights to /content/drive/My Drive/Projects/darknet_bloodcells/backup4//yolo_custom_last.weights
+Resizing
+576 x 576 
+ try to allocate additional workspace_size = 97.55 MB 
+ CUDA allocate done! 
+Loaded: 0.000041 seconds
+
+ 701: 0.552613, 0.610179 avg loss, 0.000241 rate, 9.092204 seconds, 44864 images
+Loaded: 0.000038 seconds
+
+ 702: 0.633625, 0.612524 avg loss, 0.000243 rate, 9.268542 seconds, 44928 images
+Loaded: 0.000057 seconds
+ Very small path to the image:  
+
+ 703: 0.522133, 0.603485 avg loss, 0.000244 rate, 9.292140 seconds, 44992 images
+Loaded: 0.000045 seconds
+
+ 704: 0.594417, 0.602578 avg loss, 0.000246 rate, 9.293104 seconds, 45056 images
+Loaded: 0.000095 seconds
+
+ 705: 0.627277, 0.605048 avg loss, 0.000247 rate, 9.258324 seconds, 45120 images
+Loaded: 0.000042 seconds
+
+ 706: 0.603503, 0.604893 avg loss, 0.000248 rate, 9.240044 seconds, 45184 images
+Loaded: 0.000064 seconds
+
+ 707: 0.597912, 0.604195 avg loss, 0.000250 rate, 9.222403 seconds, 45248 images
+Loaded: 0.000035 seconds
+ Very small path to the image:  
+
+ 708: 0.539895, 0.597765 avg loss, 0.000251 rate, 9.227762 seconds, 45312 images
+Loaded: 0.000045 seconds
+
+ 709: 0.535912, 0.591580 avg loss, 0.000253 rate, 9.241902 seconds, 45376 images
+Loaded: 0.000036 seconds
+
+ 710: 0.573720, 0.589794 avg loss, 0.000254 rate, 9.258257 seconds, 45440 images
+Resizing
+576 x 576 
+ try to allocate additional workspace_size = 97.55 MB 
+ CUDA allocate done! 
+Loaded: 0.271228 seconds
+
+ 711: 0.503123, 0.581127 avg loss, 0.000256 rate, 9.091228 seconds, 45504 images
+Loaded: 0.000040 seconds
+
+ 712: 0.580570, 0.581071 avg loss, 0.000257 rate, 9.275123 seconds, 45568 images
+Loaded: 0.000060 seconds
+
+ 713: 0.563182, 0.579282 avg loss, 0.000258 rate, 9.286431 seconds, 45632 images
+Loaded: 0.000045 seconds
+
+ 714: 0.531036, 0.574458 avg loss, 0.000260 rate, 9.279128 seconds, 45696 images
+Loaded: 0.000054 seconds
+
+ 715: 0.590312, 0.576043 avg loss, 0.000261 rate, 9.264062 seconds, 45760 images
+Loaded: 0.000045 seconds
+
+ 716: 0.554938, 0.573933 avg loss, 0.000263 rate, 9.251873 seconds, 45824 images
+Loaded: 0.000050 seconds
+
+ 717: 0.526447, 0.569184 avg loss, 0.000264 rate, 9.240172 seconds, 45888 images
+Loaded: 0.000036 seconds
+ Very small path to the image:  
+
+ 718: 0.517721, 0.564038 avg loss, 0.000266 rate, 9.247225 seconds, 45952 images
+Loaded: 0.000037 seconds
+ Very small path to the image:  
+
+ 719: 0.597948, 0.567429 avg loss, 0.000267 rate, 9.227860 seconds, 46016 images
+Loaded: 0.000042 seconds
+
+ 720: 0.715528, 0.582239 avg loss, 0.000269 rate, 9.216600 seconds, 46080 images
+Resizing
+480 x 480 
+ try to allocate additional workspace_size = 67.74 MB 
+ CUDA allocate done! 
+Loaded: 0.000349 seconds
+
+ 721: 0.587220, 0.582737 avg loss, 0.000270 rate, 6.094798 seconds, 46144 images
+Loaded: 0.000059 seconds
+
+ 722: 0.530249, 0.577488 avg loss, 0.000272 rate, 6.206496 seconds, 46208 images
+Loaded: 0.000062 seconds
+
+ 723: 0.583737, 0.578113 avg loss, 0.000273 rate, 6.213866 seconds, 46272 images
+Loaded: 0.000058 seconds
+
+ 724: 0.608033, 0.581105 avg loss, 0.000275 rate, 6.225948 seconds, 46336 images
+Loaded: 0.000040 seconds
+
+ 725: 0.560021, 0.578997 avg loss, 0.000276 rate, 6.228933 seconds, 46400 images
+Loaded: 0.000067 seconds
+
+ 726: 0.575800, 0.578677 avg loss, 0.000278 rate, 6.250172 seconds, 46464 images
+Loaded: 0.000065 seconds
+
+ 727: 0.498997, 0.570709 avg loss, 0.000279 rate, 6.242925 seconds, 46528 images
+Loaded: 0.000066 seconds
+
+ 728: 0.662579, 0.579896 avg loss, 0.000281 rate, 6.235087 seconds, 46592 images
+Loaded: 0.000036 seconds
+ Very small path to the image:  
+
+ 729: 0.589080, 0.580814 avg loss, 0.000282 rate, 6.234222 seconds, 46656 images
+Loaded: 0.000063 seconds
+
+ 730: 0.585609, 0.581294 avg loss, 0.000284 rate, 6.230864 seconds, 46720 images
+Resizing
+544 x 544 
+ try to allocate additional workspace_size = 87.01 MB 
+ CUDA allocate done! 
+Loaded: 0.000043 seconds
+
+ 731: 0.595845, 0.582749 avg loss, 0.000286 rate, 8.420791 seconds, 46784 images
+Loaded: 0.000062 seconds
+
+ 732: 0.596034, 0.584077 avg loss, 0.000287 rate, 8.560780 seconds, 46848 images
+Loaded: 0.000060 seconds
+
+ 733: 0.665075, 0.592177 avg loss, 0.000289 rate, 8.567954 seconds, 46912 images
+Loaded: 0.000044 seconds
+ Very small path to the image:  
+
+ 734: 0.517446, 0.584704 avg loss, 0.000290 rate, 8.549840 seconds, 46976 images
+Loaded: 0.000047 seconds
+
+ 735: 0.522417, 0.578475 avg loss, 0.000292 rate, 8.554549 seconds, 47040 images
+Loaded: 0.000043 seconds
+ Very small path to the image:  
+
+ 736: 0.475394, 0.568167 avg loss, 0.000293 rate, 8.565220 seconds, 47104 images
+Loaded: 0.000038 seconds
+
+ 737: 0.580799, 0.569430 avg loss, 0.000295 rate, 8.543235 seconds, 47168 images
+Loaded: 0.000043 seconds
+
+ 738: 0.535618, 0.566049 avg loss, 0.000297 rate, 8.559037 seconds, 47232 images
+Loaded: 0.000055 seconds
+
+ 739: 0.581338, 0.567578 avg loss, 0.000298 rate, 8.558250 seconds, 47296 images
+Loaded: 0.000070 seconds
+
+ 740: 0.549384, 0.565759 avg loss, 0.000300 rate, 8.567980 seconds, 47360 images
+Resizing
+608 x 608 
+ try to allocate additional workspace_size = 108.69 MB 
+ CUDA allocate done! 
+Loaded: 0.000041 seconds
+
+ 741: 0.584816, 0.567664 avg loss, 0.000301 rate, 9.904534 seconds, 47424 images
+Loaded: 0.000037 seconds
+
+ 742: 0.439783, 0.554876 avg loss, 0.000303 rate, 10.135486 seconds, 47488 images
+Loaded: 0.000059 seconds
+
+ 743: 0.462796, 0.545668 avg loss, 0.000305 rate, 10.144009 seconds, 47552 images
+Loaded: 0.000064 seconds
+
+ 744: 0.492318, 0.540333 avg loss, 0.000306 rate, 10.186755 seconds, 47616 images
+Loaded: 0.000074 seconds
+
+ 745: 0.478424, 0.534142 avg loss, 0.000308 rate, 10.152939 seconds, 47680 images
+Loaded: 0.000062 seconds
+
+ 746: 0.608417, 0.541570 avg loss, 0.000310 rate, 10.155568 seconds, 47744 images
+Loaded: 0.000128 seconds
+
+ 747: 0.443264, 0.531739 avg loss, 0.000311 rate, 10.106411 seconds, 47808 images
+Loaded: 0.000067 seconds
+
+ 748: 0.468886, 0.525454 avg loss, 0.000313 rate, 10.129196 seconds, 47872 images
+Loaded: 0.000079 seconds
+
+ 749: 0.566276, 0.529536 avg loss, 0.000315 rate, 10.101944 seconds, 47936 images
+Loaded: 0.000077 seconds
+
+ 750: 0.488661, 0.525449 avg loss, 0.000316 rate, 10.099400 seconds, 48000 images
+Resizing
+640 x 640 
+ Very small path to the image:  
+ try to allocate additional workspace_size = 120.43 MB 
+ CUDA allocate done! 
+Loaded: 0.000032 seconds
+ Very small path to the image:  
+
+ 751: 0.379615, 0.510865 avg loss, 0.000318 rate, 10.655080 seconds, 48064 images
+Loaded: 0.000071 seconds
+
+ 752: 0.438944, 0.503673 avg loss, 0.000320 rate, 10.881720 seconds, 48128 images
+Loaded: 0.000041 seconds
+
+ 753: 0.506632, 0.503969 avg loss, 0.000321 rate, 10.881065 seconds, 48192 images
+Loaded: 0.000036 seconds
+
+ 754: 0.515123, 0.505085 avg loss, 0.000323 rate, 10.903385 seconds, 48256 images
+Loaded: 0.000068 seconds
+
+ 755: 0.411769, 0.495753 avg loss, 0.000325 rate, 10.853150 seconds, 48320 images
+Loaded: 0.000076 seconds
+
+ 756: 0.518518, 0.498029 avg loss, 0.000327 rate, 10.846097 seconds, 48384 images
+Loaded: 0.000081 seconds
+
+ 757: 0.537335, 0.501960 avg loss, 0.000328 rate, 10.815598 seconds, 48448 images
+Loaded: 0.000069 seconds
+
+ 758: 0.383093, 0.490073 avg loss, 0.000330 rate, 10.845354 seconds, 48512 images
+Loaded: 0.000072 seconds
+
+ 759: 0.482749, 0.489341 avg loss, 0.000332 rate, 10.863155 seconds, 48576 images
+Loaded: 0.000039 seconds
+
+ 760: 0.441509, 0.484558 avg loss, 0.000334 rate, 10.898353 seconds, 48640 images
+Resizing
+608 x 608 
+ try to allocate additional workspace_size = 108.69 MB 
+ CUDA allocate done! 
+Loaded: 0.060405 seconds
+
+ 761: 0.483769, 0.484479 avg loss, 0.000335 rate, 9.987258 seconds, 48704 images
+Loaded: 0.000045 seconds
+
+ 762: 0.466129, 0.482644 avg loss, 0.000337 rate, 10.144714 seconds, 48768 images
+Loaded: 0.000042 seconds
+
+ 763: 0.433288, 0.477708 avg loss, 0.000339 rate, 10.120075 seconds, 48832 images
+Loaded: 0.000044 seconds
+
+ 764: 0.489601, 0.478898 avg loss, 0.000341 rate, 10.158596 seconds, 48896 images
+Loaded: 0.000040 seconds
+
+ 765: 0.383656, 0.469373 avg loss, 0.000342 rate, 10.136651 seconds, 48960 images
+Loaded: 0.000035 seconds
+
+ 766: 0.471624, 0.469598 avg loss, 0.000344 rate, 10.159745 seconds, 49024 images
+Loaded: 0.000041 seconds
+ Very small path to the image:  
+
+ 767: 0.427549, 0.465393 avg loss, 0.000346 rate, 10.144246 seconds, 49088 images
+Loaded: 0.000038 seconds
+
+ 768: 0.459594, 0.464814 avg loss, 0.000348 rate, 10.171799 seconds, 49152 images
+Loaded: 0.000043 seconds
+
+ 769: 0.452906, 0.463623 avg loss, 0.000350 rate, 10.135398 seconds, 49216 images
+Loaded: 0.000046 seconds
+
+ 770: 0.550848, 0.472345 avg loss, 0.000352 rate, 10.147939 seconds, 49280 images
+Resizing
+480 x 480 
+ try to allocate additional workspace_size = 67.74 MB 
+ CUDA allocate done! 
+Loaded: 0.006943 seconds
+
+ 771: 0.498860, 0.474997 avg loss, 0.000353 rate, 6.122814 seconds, 49344 images
+Loaded: 0.000041 seconds
+
+ 772: 0.540662, 0.481563 avg loss, 0.000355 rate, 6.219846 seconds, 49408 images
+Loaded: 0.000041 seconds
+
+ 773: 0.550135, 0.488420 avg loss, 0.000357 rate, 6.228241 seconds, 49472 images
+Loaded: 0.000034 seconds
+ Very small path to the image:  
+
+ 774: 0.553373, 0.494916 avg loss, 0.000359 rate, 6.216224 seconds, 49536 images
+Loaded: 0.000053 seconds
+
+ 775: 0.595179, 0.504942 avg loss, 0.000361 rate, 6.233876 seconds, 49600 images
+Loaded: 0.000039 seconds
+
+ 776: 0.495159, 0.503964 avg loss, 0.000363 rate, 6.228799 seconds, 49664 images
+Loaded: 0.000042 seconds
+
+ 777: 0.422767, 0.495844 avg loss, 0.000364 rate, 6.235320 seconds, 49728 images
+Loaded: 0.000070 seconds
+
+ 778: 0.480344, 0.494294 avg loss, 0.000366 rate, 6.247047 seconds, 49792 images
+Loaded: 0.000066 seconds
+
+ 779: 0.434008, 0.488265 avg loss, 0.000368 rate, 6.235127 seconds, 49856 images
+Loaded: 0.000057 seconds
+
+ 780: 0.477811, 0.487220 avg loss, 0.000370 rate, 6.234735 seconds, 49920 images
+Resizing
+800 x 800 
+ try to allocate additional workspace_size = 188.16 MB 
+ CUDA allocate done! 
+Loaded: 0.000034 seconds
+
+ 781: 0.621302, 0.500628 avg loss, 0.000372 rate, 16.933021 seconds, 49984 images
+Loaded: 0.000049 seconds
+
+ 782: 0.569878, 0.507553 avg loss, 0.000374 rate, 17.344450 seconds, 50048 images
+Loaded: 0.000084 seconds
+
+ 783: 0.550785, 0.511876 avg loss, 0.000376 rate, 17.157479 seconds, 50112 images
+Loaded: 0.000082 seconds
+
+ 784: 0.624868, 0.523175 avg loss, 0.000378 rate, 17.111321 seconds, 50176 images
+Loaded: 0.000045 seconds
+
+ 785: 0.513662, 0.522224 avg loss, 0.000380 rate, 17.146332 seconds, 50240 images
+Loaded: 0.000042 seconds
+
+ 786: 0.604462, 0.530448 avg loss, 0.000382 rate, 17.220816 seconds, 50304 images
+Loaded: 0.000051 seconds
+
+ 787: 0.716612, 0.549064 avg loss, 0.000384 rate, 17.236361 seconds, 50368 images
+Loaded: 0.000067 seconds
+
+ 788: 0.513735, 0.545531 avg loss, 0.000386 rate, 17.251082 seconds, 50432 images
+Loaded: 0.000077 seconds
+
+ 789: 0.625166, 0.553495 avg loss, 0.000388 rate, 17.192049 seconds, 50496 images
+Loaded: 0.000048 seconds
+
+ 790: 0.507622, 0.548908 avg loss, 0.000390 rate, 17.189721 seconds, 50560 images
+Resizing
+704 x 704 
+ try to allocate additional workspace_size = 145.72 MB 
+ CUDA allocate done! 
+Loaded: 0.152806 seconds
+
+ 791: 0.468534, 0.540870 avg loss, 0.000391 rate, 12.660645 seconds, 50624 images
+Loaded: 0.000047 seconds
+
+ 792: 0.524962, 0.539279 avg loss, 0.000393 rate, 12.895238 seconds, 50688 images
+Loaded: 0.000033 seconds
+
+ 793: 0.503389, 0.535690 avg loss, 0.000395 rate, 12.898254 seconds, 50752 images
+Loaded: 0.000061 seconds
+
+ 794: 0.506450, 0.532766 avg loss, 0.000397 rate, 12.907825 seconds, 50816 images
+Loaded: 0.000044 seconds
+ Very small path to the image:  
+
+ 795: 0.442684, 0.523758 avg loss, 0.000399 rate, 12.878150 seconds, 50880 images
+Loaded: 0.000038 seconds
+
+ 796: 0.568913, 0.528273 avg loss, 0.000401 rate, 12.917851 seconds, 50944 images
+Loaded: 0.000057 seconds
+
+ 797: 0.554805, 0.530927 avg loss, 0.000403 rate, 12.902272 seconds, 51008 images
+Loaded: 0.000077 seconds
+
+ 798: 0.491729, 0.527007 avg loss, 0.000406 rate, 12.913867 seconds, 51072 images
+Loaded: 0.000068 seconds
+
+ 799: 0.384937, 0.512800 avg loss, 0.000408 rate, 12.879159 seconds, 51136 images
+Loaded: 0.000038 seconds
+
+ 800: 0.467654, 0.508285 avg loss, 0.000410 rate, 12.896125 seconds, 51200 images
+Saving weights to /content/drive/My Drive/Projects/darknet_bloodcells/backup4//yolo_custom_last.weights
+Resizing
+832 x 832 
+ try to allocate additional workspace_size = 203.52 MB 
+ CUDA allocate done! 
+Loaded: 0.000046 seconds
+
+ 801: 0.559760, 0.513433 avg loss, 0.000412 rate, 17.861337 seconds, 51264 images
+Loaded: 0.000031 seconds
+
+ 802: 0.439236, 0.506013 avg loss, 0.000414 rate, 18.579899 seconds, 51328 images
+Loaded: 0.000048 seconds
+
+ 803: 0.540044, 0.509416 avg loss, 0.000416 rate, 18.197716 seconds, 51392 images
+Loaded: 0.000042 seconds
+
+ 804: 0.486101, 0.507085 avg loss, 0.000418 rate, 18.114359 seconds, 51456 images
+Loaded: 0.000080 seconds
+
+ 805: 0.502720, 0.506648 avg loss, 0.000420 rate, 18.172183 seconds, 51520 images
+Loaded: 0.000043 seconds
+
+ 806: 0.528963, 0.508880 avg loss, 0.000422 rate, 18.249386 seconds, 51584 images
+Loaded: 0.000055 seconds
+
+ 807: 0.512587, 0.509250 avg loss, 0.000424 rate, 18.175760 seconds, 51648 images
+Loaded: 0.000041 seconds
+
+ 808: 0.490664, 0.507392 avg loss, 0.000426 rate, 18.186941 seconds, 51712 images
+Loaded: 0.000039 seconds
+
+ 809: 0.545935, 0.511246 avg loss, 0.000428 rate, 18.144465 seconds, 51776 images
+Loaded: 0.000040 seconds
+
+ 810: 0.524281, 0.512550 avg loss, 0.000430 rate, 18.192453 seconds, 51840 images
+Resizing
+640 x 640 
+ try to allocate additional workspace_size = 120.43 MB 
+ CUDA allocate done! 
+Loaded: 0.021358 seconds
+
+ 811: 0.409338, 0.502228 avg loss, 0.000433 rate, 10.712998 seconds, 51904 images
+Loaded: 0.000060 seconds
+
+ 812: 0.555712, 0.507577 avg loss, 0.000435 rate, 10.901677 seconds, 51968 images
+Loaded: 0.000072 seconds
+
+ 813: 0.553415, 0.512161 avg loss, 0.000437 rate, 10.892018 seconds, 52032 images
+Loaded: 0.000057 seconds
+
+ 814: 0.399685, 0.500913 avg loss, 0.000439 rate, 10.904637 seconds, 52096 images
+Loaded: 0.000042 seconds
+ Very small path to the image:  
+
+ 815: 0.487292, 0.499551 avg loss, 0.000441 rate, 10.905110 seconds, 52160 images
+Loaded: 0.000061 seconds
+
+ 816: 0.389590, 0.488555 avg loss, 0.000443 rate, 10.903116 seconds, 52224 images
+Loaded: 0.000070 seconds
+
+ 817: 0.439001, 0.483599 avg loss, 0.000446 rate, 10.900662 seconds, 52288 images
+Loaded: 0.000038 seconds
+
+ 818: 0.488585, 0.484098 avg loss, 0.000448 rate, 10.894140 seconds, 52352 images
+Loaded: 0.000075 seconds
+
+ 819: 0.466180, 0.482306 avg loss, 0.000450 rate, 10.899133 seconds, 52416 images
+Loaded: 0.000038 seconds
+ Very small path to the image:  
+
+ 820: 0.471127, 0.481188 avg loss, 0.000452 rate, 10.884944 seconds, 52480 images
+Resizing
+480 x 480 
+ Very small path to the image:  
+ try to allocate additional workspace_size = 67.74 MB 
+ CUDA allocate done! 
+Loaded: 0.000058 seconds
+
+ 821: 0.649084, 0.497978 avg loss, 0.000454 rate, 6.102931 seconds, 52544 images
+Loaded: 0.000032 seconds
+
+ 822: 0.632874, 0.511467 avg loss, 0.000457 rate, 6.224468 seconds, 52608 images
+Loaded: 0.000049 seconds
+
+ 823: 0.394282, 0.499749 avg loss, 0.000459 rate, 6.219899 seconds, 52672 images
+Loaded: 0.000042 seconds
+
+ 824: 0.445002, 0.494274 avg loss, 0.000461 rate, 6.218069 seconds, 52736 images
+Loaded: 0.000039 seconds
+
+ 825: 0.579252, 0.502772 avg loss, 0.000463 rate, 6.221248 seconds, 52800 images
+Loaded: 0.000046 seconds
+
+ 826: 0.543250, 0.506820 avg loss, 0.000466 rate, 6.235041 seconds, 52864 images
+Loaded: 0.000040 seconds
+
+ 827: 0.438861, 0.500024 avg loss, 0.000468 rate, 6.228703 seconds, 52928 images
+Loaded: 0.000058 seconds
+
+ 828: 0.459111, 0.495933 avg loss, 0.000470 rate, 6.224414 seconds, 52992 images
+Loaded: 0.000045 seconds
+
+ 829: 0.443130, 0.490652 avg loss, 0.000472 rate, 6.230813 seconds, 53056 images
+Loaded: 0.000063 seconds
+
+ 830: 0.476574, 0.489245 avg loss, 0.000475 rate, 6.240265 seconds, 53120 images
+Resizing
+576 x 576 
+ try to allocate additional workspace_size = 97.55 MB 
+ CUDA allocate done! 
+Loaded: 0.000041 seconds
+
+ 831: 0.396915, 0.480012 avg loss, 0.000477 rate, 9.092354 seconds, 53184 images
+Loaded: 0.000044 seconds
+
+ 832: 0.541019, 0.486112 avg loss, 0.000479 rate, 9.269341 seconds, 53248 images
+Loaded: 0.000048 seconds
+
+ 833: 0.490657, 0.486567 avg loss, 0.000481 rate, 9.287850 seconds, 53312 images
+Loaded: 0.000072 seconds
+
+ 834: 0.484196, 0.486330 avg loss, 0.000484 rate, 9.279698 seconds, 53376 images
+Loaded: 0.000093 seconds
+
+ 835: 0.423349, 0.480032 avg loss, 0.000486 rate, 9.288785 seconds, 53440 images
+Loaded: 0.000033 seconds
+
+ 836: 0.484300, 0.480458 avg loss, 0.000488 rate, 9.289088 seconds, 53504 images
+Loaded: 0.000077 seconds
+ Very small path to the image:  
+
+ 837: 0.446518, 0.477064 avg loss, 0.000491 rate, 9.265835 seconds, 53568 images
+Loaded: 0.000062 seconds
+
+ 838: 0.461946, 0.475553 avg loss, 0.000493 rate, 9.270647 seconds, 53632 images
+Loaded: 0.000069 seconds
+
+ 839: 0.440100, 0.472007 avg loss, 0.000496 rate, 9.263610 seconds, 53696 images
+Loaded: 0.000062 seconds
+
+ 840: 0.452947, 0.470101 avg loss, 0.000498 rate, 9.270435 seconds, 53760 images
+Resizing
+608 x 608 
+ Very small path to the image:  
+ try to allocate additional workspace_size = 108.69 MB 
+ CUDA allocate done! 
+Loaded: 0.000038 seconds
+
+ 841: 0.441248, 0.467216 avg loss, 0.000500 rate, 9.948308 seconds, 53824 images
+Loaded: 0.000038 seconds
+
+ 842: 0.363021, 0.456796 avg loss, 0.000503 rate, 10.139566 seconds, 53888 images
+Loaded: 0.000042 seconds
+
+ 843: 0.485877, 0.459704 avg loss, 0.000505 rate, 10.124556 seconds, 53952 images
+Loaded: 0.000038 seconds
+
+ 844: 0.452798, 0.459014 avg loss, 0.000507 rate, 10.162785 seconds, 54016 images
+Loaded: 0.000041 seconds
+
+ 845: 0.471866, 0.460299 avg loss, 0.000510 rate, 10.177350 seconds, 54080 images
+Loaded: 0.000044 seconds
+
+ 846: 0.427495, 0.457019 avg loss, 0.000512 rate, 10.181395 seconds, 54144 images
+Loaded: 0.000065 seconds
+ Very small path to the image:  
+
+ 847: 0.452193, 0.456536 avg loss, 0.000515 rate, 10.153384 seconds, 54208 images
+Loaded: 0.000041 seconds
+
+ 848: 0.391808, 0.450063 avg loss, 0.000517 rate, 10.165872 seconds, 54272 images
+Loaded: 0.000043 seconds
+
+ 849: 0.383951, 0.443452 avg loss, 0.000520 rate, 10.136869 seconds, 54336 images
+Loaded: 0.000040 seconds
+
+ 850: 0.461614, 0.445268 avg loss, 0.000522 rate, 10.143145 seconds, 54400 images
+Resizing
+704 x 704 
+ try to allocate additional workspace_size = 145.72 MB 
+ CUDA allocate done! 
+Loaded: 0.000045 seconds
+
+ 851: 0.504454, 0.451187 avg loss, 0.000524 rate, 12.706781 seconds, 54464 images
+Loaded: 0.000049 seconds
+
+ 852: 0.432249, 0.449293 avg loss, 0.000527 rate, 12.962820 seconds, 54528 images
+Loaded: 0.000067 seconds
+
+ 853: 0.412903, 0.445654 avg loss, 0.000529 rate, 12.960560 seconds, 54592 images
+Loaded: 0.000039 seconds
+ Very small path to the image:  
+
+ 854: 0.509638, 0.452052 avg loss, 0.000532 rate, 12.930877 seconds, 54656 images
+Loaded: 0.000067 seconds
+
+ 855: 0.390563, 0.445903 avg loss, 0.000534 rate, 12.857462 seconds, 54720 images
+Loaded: 0.000041 seconds
+
+ 856: 0.392715, 0.440585 avg loss, 0.000537 rate, 12.873560 seconds, 54784 images
+Loaded: 0.000044 seconds
+
+ 857: 0.416118, 0.438138 avg loss, 0.000539 rate, 12.851237 seconds, 54848 images
+Loaded: 0.000045 seconds
+ Very small path to the image:  
+
+ 858: 0.513032, 0.445627 avg loss, 0.000542 rate, 12.888937 seconds, 54912 images
+Loaded: 0.000042 seconds
+
+ 859: 0.538716, 0.454936 avg loss, 0.000544 rate, 12.885841 seconds, 54976 images
+Loaded: 0.000082 seconds
+
+ 860: 0.425931, 0.452036 avg loss, 0.000547 rate, 12.889838 seconds, 55040 images
+Resizing
+640 x 640 
+ try to allocate additional workspace_size = 120.43 MB 
+ CUDA allocate done! 
+Loaded: 0.207393 seconds
+ Very small path to the image:  
+
+ 861: 0.377220, 0.444554 avg loss, 0.000550 rate, 10.657011 seconds, 55104 images
+Loaded: 0.000049 seconds
+
+ 862: 0.435391, 0.443638 avg loss, 0.000552 rate, 10.879253 seconds, 55168 images
+Loaded: 0.000069 seconds
+
+ 863: 0.489526, 0.448227 avg loss, 0.000555 rate, 10.889598 seconds, 55232 images
+Loaded: 0.000066 seconds
+
+ 864: 0.440114, 0.447415 avg loss, 0.000557 rate, 10.890081 seconds, 55296 images
+Loaded: 0.000039 seconds
+ Very small path to the image:  
+
+ 865: 0.403638, 0.443038 avg loss, 0.000560 rate, 10.891873 seconds, 55360 images
+Loaded: 0.000061 seconds
+
+ 866: 0.425373, 0.441271 avg loss, 0.000562 rate, 10.903733 seconds, 55424 images
+Loaded: 0.000063 seconds
+
+ 867: 0.443637, 0.441508 avg loss, 0.000565 rate, 10.912559 seconds, 55488 images
+Loaded: 0.000033 seconds
+
+ 868: 0.398901, 0.437247 avg loss, 0.000568 rate, 10.893045 seconds, 55552 images
+Loaded: 0.000093 seconds
+
+ 869: 0.399822, 0.433504 avg loss, 0.000570 rate, 10.905291 seconds, 55616 images
+Loaded: 0.000085 seconds
+
+ 870: 0.403769, 0.430531 avg loss, 0.000573 rate, 10.888167 seconds, 55680 images
+Resizing
+640 x 640 
+ try to allocate additional workspace_size = 120.43 MB 
+ CUDA allocate done! 
+Loaded: 0.073698 seconds
+
+ 871: 0.427236, 0.430201 avg loss, 0.000576 rate, 10.680834 seconds, 55744 images
+Loaded: 0.000062 seconds
+
+ 872: 0.424554, 0.429637 avg loss, 0.000578 rate, 10.881972 seconds, 55808 images
+Loaded: 0.000048 seconds
+
+ 873: 0.440573, 0.430730 avg loss, 0.000581 rate, 10.882578 seconds, 55872 images
+Loaded: 0.000040 seconds
+
+ 874: 0.415620, 0.429219 avg loss, 0.000584 rate, 10.892282 seconds, 55936 images
+Loaded: 0.000058 seconds
+
+ 875: 0.367159, 0.423013 avg loss, 0.000586 rate, 10.880900 seconds, 56000 images
+Loaded: 0.000038 seconds
+
+ 876: 0.360749, 0.416787 avg loss, 0.000589 rate, 10.892083 seconds, 56064 images
+Loaded: 0.000070 seconds
+
+ 877: 0.377821, 0.412890 avg loss, 0.000592 rate, 10.890001 seconds, 56128 images
+Loaded: 0.000046 seconds
+ Very small path to the image:  
+ Very small path to the image:  
+
+ 878: 0.416397, 0.413241 avg loss, 0.000594 rate, 10.908251 seconds, 56192 images
+Loaded: 0.000042 seconds
+
+ 879: 0.427162, 0.414633 avg loss, 0.000597 rate, 10.897830 seconds, 56256 images
+Loaded: 0.000066 seconds
+
+ 880: 0.372636, 0.410433 avg loss, 0.000600 rate, 10.885563 seconds, 56320 images
+Resizing
+544 x 544 
+ try to allocate additional workspace_size = 87.01 MB 
+ CUDA allocate done! 
+Loaded: 0.123583 seconds
+
+ 881: 0.379269, 0.407317 avg loss, 0.000602 rate, 8.447320 seconds, 56384 images
+Loaded: 0.000070 seconds
+
+ 882: 0.382648, 0.404850 avg loss, 0.000605 rate, 8.580209 seconds, 56448 images
+Loaded: 0.000041 seconds
+
+ 883: 0.389954, 0.403360 avg loss, 0.000608 rate, 8.579684 seconds, 56512 images
+Loaded: 0.000040 seconds
+ Very small path to the image:  
+
+ 884: 0.338537, 0.396878 avg loss, 0.000611 rate, 8.570533 seconds, 56576 images
+Loaded: 0.000071 seconds
+
+ 885: 0.396859, 0.396876 avg loss, 0.000613 rate, 8.586845 seconds, 56640 images
+Loaded: 0.000048 seconds
+
+ 886: 0.441252, 0.401314 avg loss, 0.000616 rate, 8.584335 seconds, 56704 images
+Loaded: 0.000084 seconds
+
+ 887: 0.329040, 0.394086 avg loss, 0.000619 rate, 8.589157 seconds, 56768 images
+Loaded: 0.000074 seconds
+
+ 888: 0.386039, 0.393282 avg loss, 0.000622 rate, 8.588498 seconds, 56832 images
+Loaded: 0.000040 seconds
+
+ 889: 0.359997, 0.389953 avg loss, 0.000625 rate, 8.585140 seconds, 56896 images
+Loaded: 0.000061 seconds
+
+ 890: 0.398832, 0.390841 avg loss, 0.000627 rate, 8.596432 seconds, 56960 images
+Resizing
+704 x 704 
+ try to allocate additional workspace_size = 145.72 MB 
+ CUDA allocate done! 
+Loaded: 0.000041 seconds
+
+ 891: 0.512106, 0.402968 avg loss, 0.000630 rate, 12.680429 seconds, 57024 images
+Loaded: 0.000040 seconds
+
+ 892: 0.456784, 0.408349 avg loss, 0.000633 rate, 12.936277 seconds, 57088 images
+Loaded: 0.000077 seconds
+
+ 893: 0.434817, 0.410996 avg loss, 0.000636 rate, 12.918744 seconds, 57152 images
+Loaded: 0.000046 seconds
+ Very small path to the image:  
+
+ 894: 0.471537, 0.417050 avg loss, 0.000639 rate, 12.954547 seconds, 57216 images
+Loaded: 0.000044 seconds
+
+ 895: 0.507703, 0.426115 avg loss, 0.000642 rate, 12.923497 seconds, 57280 images
+Loaded: 0.000041 seconds
+
+ 896: 0.448204, 0.428324 avg loss, 0.000645 rate, 12.950059 seconds, 57344 images
+Loaded: 0.000051 seconds
+
+ 897: 0.503265, 0.435818 avg loss, 0.000647 rate, 12.943417 seconds, 57408 images
+Loaded: 0.000063 seconds
+
+ 898: 0.416764, 0.433913 avg loss, 0.000650 rate, 12.945475 seconds, 57472 images
+Loaded: 0.000041 seconds
+
+ 899: 0.408114, 0.431333 avg loss, 0.000653 rate, 12.933346 seconds, 57536 images
+Loaded: 0.000040 seconds
+
+ 900: 0.496150, 0.437815 avg loss, 0.000656 rate, 12.957017 seconds, 57600 images
+Saving weights to /content/drive/My Drive/Projects/darknet_bloodcells/backup4//yolo_custom_last.weights
+Resizing
+672 x 672 
+ try to allocate additional workspace_size = 132.77 MB 
+ CUDA allocate done! 
+Loaded: 0.598895 seconds
+
+ 901: 0.402901, 0.434323 avg loss, 0.000659 rate, 12.015608 seconds, 57664 images
+Loaded: 0.000045 seconds
+ Very small path to the image:  
+
+ 902: 0.347323, 0.425623 avg loss, 0.000662 rate, 12.240264 seconds, 57728 images
+Loaded: 0.000047 seconds
+
+ 903: 0.428277, 0.425889 avg loss, 0.000665 rate, 12.243941 seconds, 57792 images
+Loaded: 0.000072 seconds
+ Very small path to the image:  
+
+ 904: 0.416091, 0.424909 avg loss, 0.000668 rate, 12.287003 seconds, 57856 images
+Loaded: 0.000048 seconds
+
+ 905: 0.437405, 0.426158 avg loss, 0.000671 rate, 12.285872 seconds, 57920 images
+Loaded: 0.000037 seconds
+
+ 906: 0.460199, 0.429563 avg loss, 0.000674 rate, 12.289329 seconds, 57984 images
+Loaded: 0.000080 seconds
+
+ 907: 0.452305, 0.431837 avg loss, 0.000677 rate, 12.218340 seconds, 58048 images
+Loaded: 0.000039 seconds
+
+ 908: 0.431895, 0.431843 avg loss, 0.000680 rate, 12.230088 seconds, 58112 images
+Loaded: 0.000069 seconds
+
+ 909: 0.380807, 0.426739 avg loss, 0.000683 rate, 12.210330 seconds, 58176 images
+Loaded: 0.000048 seconds
+
+ 910: 0.341789, 0.418244 avg loss, 0.000686 rate, 12.208375 seconds, 58240 images
+Resizing
+640 x 640 
+ try to allocate additional workspace_size = 120.43 MB 
+ CUDA allocate done! 
+Loaded: 0.311826 seconds
+ Very small path to the image:  
+
+ 911: 0.332683, 0.409688 avg loss, 0.000689 rate, 10.672136 seconds, 58304 images
+Loaded: 0.000038 seconds
+
+ 912: 0.372284, 0.405948 avg loss, 0.000692 rate, 10.873128 seconds, 58368 images
+Loaded: 0.000076 seconds
+
+ 913: 0.402602, 0.405613 avg loss, 0.000695 rate, 10.868914 seconds, 58432 images
+Loaded: 0.000046 seconds
+
+ 914: 0.405282, 0.405580 avg loss, 0.000698 rate, 10.864234 seconds, 58496 images
+Loaded: 0.000068 seconds
+
+ 915: 0.422067, 0.407229 avg loss, 0.000701 rate, 10.861831 seconds, 58560 images
+Loaded: 0.000044 seconds
+ Very small path to the image:  
+
+ 916: 0.443395, 0.410845 avg loss, 0.000704 rate, 10.852280 seconds, 58624 images
+Loaded: 0.000043 seconds
+
+ 917: 0.439908, 0.413752 avg loss, 0.000707 rate, 10.855791 seconds, 58688 images
+Loaded: 0.000053 seconds
+
+ 918: 0.390263, 0.411403 avg loss, 0.000710 rate, 10.878915 seconds, 58752 images
+Loaded: 0.000038 seconds
+ Very small path to the image:  
+ Very small path to the image:  
+
+ 919: 0.414245, 0.411687 avg loss, 0.000713 rate, 10.871570 seconds, 58816 images
+Loaded: 0.000048 seconds
+
+ 920: 0.403882, 0.410907 avg loss, 0.000716 rate, 10.863364 seconds, 58880 images
+Resizing
+768 x 768 
+ try to allocate additional workspace_size = 173.41 MB 
+ CUDA allocate done! 
+Loaded: 0.000051 seconds
+
+ 921: 0.380854, 0.407901 avg loss, 0.000720 rate, 14.590621 seconds, 58944 images
+Loaded: 0.000065 seconds
+
+ 922: 0.427529, 0.409864 avg loss, 0.000723 rate, 14.996817 seconds, 59008 images
+Loaded: 0.000068 seconds
+
+ 923: 0.430644, 0.411942 avg loss, 0.000726 rate, 14.929596 seconds, 59072 images
+Loaded: 0.000061 seconds
+
+ 924: 0.443181, 0.415066 avg loss, 0.000729 rate, 14.860714 seconds, 59136 images
+Loaded: 0.000049 seconds
+
+ 925: 0.459194, 0.419479 avg loss, 0.000732 rate, 14.802225 seconds, 59200 images
+Loaded: 0.000046 seconds
+
+ 926: 0.496192, 0.427150 avg loss, 0.000735 rate, 14.867224 seconds, 59264 images
+Loaded: 0.000044 seconds
+
+ 927: 0.504337, 0.434869 avg loss, 0.000738 rate, 14.852060 seconds, 59328 images
+Loaded: 0.000040 seconds
+
+ 928: 0.406529, 0.432035 avg loss, 0.000742 rate, 14.931409 seconds, 59392 images
+Loaded: 0.000127 seconds
+
+ 929: 0.410273, 0.429859 avg loss, 0.000745 rate, 14.919233 seconds, 59456 images
+Loaded: 0.000080 seconds
+
+ 930: 0.432329, 0.430106 avg loss, 0.000748 rate, 14.923768 seconds, 59520 images
+Resizing
+608 x 608 
+ try to allocate additional workspace_size = 108.69 MB 
+ CUDA allocate done! 
+Loaded: 0.002430 seconds
+
+ 931: 0.433093, 0.430404 avg loss, 0.000751 rate, 9.996424 seconds, 59584 images
+Loaded: 0.000065 seconds
+
+ 932: 0.551407, 0.442505 avg loss, 0.000755 rate, 10.158040 seconds, 59648 images
+Loaded: 0.000047 seconds
+
+ 933: 0.431698, 0.441424 avg loss, 0.000758 rate, 10.142251 seconds, 59712 images
+Loaded: 0.000066 seconds
+
+ 934: 0.312323, 0.428514 avg loss, 0.000761 rate, 10.154164 seconds, 59776 images
+Loaded: 0.000046 seconds
+
+ 935: 0.329069, 0.418570 avg loss, 0.000764 rate, 10.165579 seconds, 59840 images
+Loaded: 0.000073 seconds
+
+ 936: 0.397584, 0.416471 avg loss, 0.000768 rate, 10.155637 seconds, 59904 images
+Loaded: 0.000044 seconds
+ Very small path to the image:  
+
+ 937: 0.473338, 0.422158 avg loss, 0.000771 rate, 10.138008 seconds, 59968 images
+Loaded: 0.000042 seconds
+
+ 938: 0.371638, 0.417106 avg loss, 0.000774 rate, 10.144734 seconds, 60032 images
+Loaded: 0.000044 seconds
+
+ 939: 0.373329, 0.412728 avg loss, 0.000777 rate, 10.126275 seconds, 60096 images
+Loaded: 0.000041 seconds
+
+ 940: 0.432180, 0.414673 avg loss, 0.000781 rate, 10.136487 seconds, 60160 images
+Resizing
+768 x 768 
+ try to allocate additional workspace_size = 173.41 MB 
+ CUDA allocate done! 
+Loaded: 0.000036 seconds
+
+ 941: 0.400400, 0.413246 avg loss, 0.000784 rate, 14.591847 seconds, 60224 images
+Loaded: 0.000045 seconds
+
+ 942: 0.460587, 0.417980 avg loss, 0.000787 rate, 14.926401 seconds, 60288 images
+Loaded: 0.000067 seconds
+
+ 943: 0.463553, 0.422537 avg loss, 0.000791 rate, 14.936538 seconds, 60352 images
+Loaded: 0.000038 seconds
+
+ 944: 0.539130, 0.434197 avg loss, 0.000794 rate, 14.928582 seconds, 60416 images
+Loaded: 0.000041 seconds
+
+ 945: 0.451567, 0.435934 avg loss, 0.000797 rate, 14.894416 seconds, 60480 images
+Loaded: 0.000042 seconds
+
+ 946: 0.351444, 0.427485 avg loss, 0.000801 rate, 14.851243 seconds, 60544 images
+Loaded: 0.000049 seconds
+
+ 947: 0.342499, 0.418986 avg loss, 0.000804 rate, 14.834755 seconds, 60608 images
+Loaded: 0.000043 seconds
+
+ 948: 0.405516, 0.417639 avg loss, 0.000808 rate, 14.843081 seconds, 60672 images
+Loaded: 0.000042 seconds
+
+ 949: 0.416442, 0.417519 avg loss, 0.000811 rate, 14.857930 seconds, 60736 images
+Loaded: 0.000039 seconds
+
+ 950: 0.436415, 0.419409 avg loss, 0.000815 rate, 14.873434 seconds, 60800 images
+Resizing
+512 x 512 
+ try to allocate additional workspace_size = 77.07 MB 
+ CUDA allocate done! 
+Loaded: 0.000048 seconds
+
+ 951: 0.692784, 0.446746 avg loss, 0.000818 rate, 6.596380 seconds, 60864 images
+Loaded: 0.000088 seconds
+ Very small path to the image:  
+
+ 952: 0.466694, 0.448741 avg loss, 0.000821 rate, 6.734649 seconds, 60928 images
+Loaded: 0.000066 seconds
+
+ 953: 0.374411, 0.441308 avg loss, 0.000825 rate, 6.737423 seconds, 60992 images
+Loaded: 0.000036 seconds
+
+ 954: 0.313426, 0.428520 avg loss, 0.000828 rate, 6.734497 seconds, 61056 images
+Loaded: 0.000068 seconds
+ Very small path to the image:  
+
+ 955: 0.577817, 0.443450 avg loss, 0.000832 rate, 6.737374 seconds, 61120 images
+Loaded: 0.000038 seconds
+ Very small path to the image:  
+
+ 956: 0.413163, 0.440421 avg loss, 0.000835 rate, 6.737304 seconds, 61184 images
+Loaded: 0.000058 seconds
+
+ 957: 0.402687, 0.436648 avg loss, 0.000839 rate, 6.733429 seconds, 61248 images
+Loaded: 0.000052 seconds
+
+ 958: 0.407601, 0.433743 avg loss, 0.000842 rate, 6.740653 seconds, 61312 images
+Loaded: 0.000041 seconds
+
+ 959: 0.527639, 0.443133 avg loss, 0.000846 rate, 6.745426 seconds, 61376 images
+Loaded: 0.000046 seconds
+
+ 960: 0.500636, 0.448883 avg loss, 0.000849 rate, 6.750543 seconds, 61440 images
+Resizing
+512 x 512 
+ try to allocate additional workspace_size = 77.07 MB 
+ CUDA allocate done! 
+Loaded: 0.120883 seconds
+
+ 961: 0.519902, 0.455985 avg loss, 0.000853 rate, 6.627346 seconds, 61504 images
+Loaded: 0.000044 seconds
+ Very small path to the image:  
+
+ 962: 0.525947, 0.462981 avg loss, 0.000856 rate, 6.748002 seconds, 61568 images
+Loaded: 0.000033 seconds
+ Very small path to the image:  
+
+ 963: 0.548933, 0.471576 avg loss, 0.000860 rate, 6.737573 seconds, 61632 images
+Loaded: 0.000061 seconds
+
+ 964: 0.398661, 0.464285 avg loss, 0.000864 rate, 6.742626 seconds, 61696 images
+Loaded: 0.000076 seconds
+ Very small path to the image:  
+
+ 965: 0.335776, 0.451434 avg loss, 0.000867 rate, 6.742359 seconds, 61760 images
+Loaded: 0.000070 seconds
+
+ 966: 0.373268, 0.443617 avg loss, 0.000871 rate, 6.748173 seconds, 61824 images
+Loaded: 0.000061 seconds
+
+ 967: 0.395096, 0.438765 avg loss, 0.000874 rate, 6.749306 seconds, 61888 images
+Loaded: 0.000055 seconds
+
+ 968: 0.448965, 0.439785 avg loss, 0.000878 rate, 6.736405 seconds, 61952 images
+Loaded: 0.000044 seconds
+
+ 969: 0.412562, 0.437063 avg loss, 0.000882 rate, 6.743506 seconds, 62016 images
+Loaded: 0.000054 seconds
+
+ 970: 0.386831, 0.432040 avg loss, 0.000885 rate, 6.725942 seconds, 62080 images
+Resizing
+608 x 608 
+ try to allocate additional workspace_size = 108.69 MB 
+ CUDA allocate done! 
+Loaded: 0.000043 seconds
+
+ 971: 0.412606, 0.430096 avg loss, 0.000889 rate, 9.912726 seconds, 62144 images
+Loaded: 0.000066 seconds
+
+ 972: 0.401208, 0.427207 avg loss, 0.000893 rate, 10.139396 seconds, 62208 images
+Loaded: 0.000043 seconds
+
+ 973: 0.345878, 0.419074 avg loss, 0.000896 rate, 10.171895 seconds, 62272 images
+Loaded: 0.000039 seconds
+
+ 974: 0.438338, 0.421001 avg loss, 0.000900 rate, 10.195090 seconds, 62336 images
+Loaded: 0.000047 seconds
+
+ 975: 0.473162, 0.426217 avg loss, 0.000904 rate, 10.184965 seconds, 62400 images
+Loaded: 0.000045 seconds
+
+ 976: 0.390928, 0.422688 avg loss, 0.000907 rate, 10.143661 seconds, 62464 images
+Loaded: 0.000039 seconds
+
+ 977: 0.378248, 0.418244 avg loss, 0.000911 rate, 10.146216 seconds, 62528 images
+Loaded: 0.000035 seconds
+
+ 978: 0.408952, 0.417315 avg loss, 0.000915 rate, 10.134764 seconds, 62592 images
+Loaded: 0.000063 seconds
+
+ 979: 0.378196, 0.413403 avg loss, 0.000919 rate, 10.115682 seconds, 62656 images
+Loaded: 0.000062 seconds
+
+ 980: 0.365598, 0.408622 avg loss, 0.000922 rate, 10.123164 seconds, 62720 images
+Resizing
+480 x 480 
+ try to allocate additional workspace_size = 67.74 MB 
+ CUDA allocate done! 
+Loaded: 0.132311 seconds
+ Very small path to the image:  
+ Very small path to the image:  
+
+ 981: 0.449598, 0.412720 avg loss, 0.000926 rate, 6.097522 seconds, 62784 images
+Loaded: 0.000042 seconds
+
+ 982: 0.469640, 0.418412 avg loss, 0.000930 rate, 6.210321 seconds, 62848 images
+Loaded: 0.000068 seconds
+ Very small path to the image:  
+
+ 983: 0.481123, 0.424683 avg loss, 0.000934 rate, 6.217913 seconds, 62912 images
+Loaded: 0.000065 seconds
+
+ 984: 0.377880, 0.420003 avg loss, 0.000938 rate, 6.231322 seconds, 62976 images
+Loaded: 0.000035 seconds
+
+ 985: 0.519200, 0.429923 avg loss, 0.000941 rate, 6.232438 seconds, 63040 images
+Loaded: 0.000061 seconds
+ Very small path to the image:  
+
+ 986: 0.380137, 0.424944 avg loss, 0.000945 rate, 6.221498 seconds, 63104 images
+Loaded: 0.000044 seconds
+
+ 987: 0.398506, 0.422300 avg loss, 0.000949 rate, 6.230256 seconds, 63168 images
+Loaded: 0.000038 seconds
+
+ 988: 0.385162, 0.418586 avg loss, 0.000953 rate, 6.240553 seconds, 63232 images
+Loaded: 0.000045 seconds
+
+ 989: 0.491334, 0.425861 avg loss, 0.000957 rate, 6.231666 seconds, 63296 images
+Loaded: 0.000058 seconds
+ Very small path to the image:  
+
+ 990: 0.408687, 0.424144 avg loss, 0.000961 rate, 6.233691 seconds, 63360 images
+Resizing
+736 x 736 
+ try to allocate additional workspace_size = 159.26 MB 
+ CUDA allocate done! 
+Loaded: 0.000042 seconds
+
+ 991: 0.429105, 0.424640 avg loss, 0.000964 rate, 13.833174 seconds, 63424 images
+Loaded: 0.000067 seconds
+
+ 992: 0.427209, 0.424897 avg loss, 0.000968 rate, 14.138907 seconds, 63488 images
+Loaded: 0.000044 seconds
+ Very small path to the image:  
+ Very small path to the image:  
+
+ 993: 0.415170, 0.423924 avg loss, 0.000972 rate, 14.163424 seconds, 63552 images
+Loaded: 0.000086 seconds
+ Very small path to the image:  
+
+ 994: 0.467776, 0.428309 avg loss, 0.000976 rate, 14.116107 seconds, 63616 images
+Loaded: 0.000072 seconds
+
+ 995: 0.347740, 0.420252 avg loss, 0.000980 rate, 14.077420 seconds, 63680 images
+Loaded: 0.000044 seconds
+
+ 996: 0.343614, 0.412589 avg loss, 0.000984 rate, 14.050282 seconds, 63744 images
+Loaded: 0.000072 seconds
+
+ 997: 0.444144, 0.415744 avg loss, 0.000988 rate, 14.023660 seconds, 63808 images
+Loaded: 0.000041 seconds
+
+ 998: 0.443379, 0.418508 avg loss, 0.000992 rate, 14.025630 seconds, 63872 images
+Loaded: 0.000045 seconds
+
+ 999: 0.411053, 0.417762 avg loss, 0.000996 rate, 14.003710 seconds, 63936 images
+Loaded: 0.000049 seconds
+
+ 1000: 0.404308, 0.416417 avg loss, 0.001000 rate, 14.061752 seconds, 64000 images
